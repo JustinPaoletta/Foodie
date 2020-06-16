@@ -14,7 +14,7 @@
 1. [Overview](#Overview)
 1. [PreReqs](#PreReqs)
 1. [Development](#Development)
-1. [Setup & Runtime!](#Setup&Runtime!)
+1. [Setup&Runtime!](#Setup&Runtime!)
 
 ## Overview
 
@@ -30,7 +30,7 @@
 
 Developed by Justin Paoletta Max Ross and Zeke Deckert-Holscher
 
-## Setup & RunTime!
+## Setup&RunTime!
 
 Follow the Instructions for Setting up Each Individual Module
 
