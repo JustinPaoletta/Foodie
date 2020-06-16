@@ -70,4 +70,6 @@ Follow the Instructions for Setting up Each Individual Module
 
 > The images for this project may no longer be hosted on s3 due to the cost of keeping everything deployed. This Means you can expect certain data not to render
 
+
+Please See The Video Below To See My Contributions To The Foodie Application
 [![For The FOODIE In You](foodie.png)](https://www.youtube.com/watch?v=NzA-GTmPCDk)
