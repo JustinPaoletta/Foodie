@@ -1,9 +1,0 @@
-[submodule "Justin"]
-	path = Justin
-	url = https://github.com/fec7-gollum/top-styling-and-reviews.git
-[submodule "Maxs"]
-	path = Maxs
-	url = https://github.com/fec7-gollum/ingredients-carousel-and-equipment-list.git
-[submodule "Zekee"]
-	path = Zekee
-	url = https://github.com/fec7-gollum/recipe-steps-w-video-carousel.git
