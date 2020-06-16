@@ -68,4 +68,6 @@ Follow the Instructions for Setting up Each Individual Module
 - now view the project @ localhost:8000/1
 
 
-> The images for this project may no longer be hosted on s3 due to the cost of keeping everything deployed.
+> The images for this project may no longer be hosted on s3 due to the cost of keeping everything deployed. This Means you can expect certain data not to render
+
+[![For The FOODIE In You](foodie.png)](https://www.youtube.com/watch?v=NzA-GTmPCDk)
