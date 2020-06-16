@@ -41,12 +41,31 @@ Follow the Instructions for Setting up Each Individual Module
 
 ## top-styling-and-reviews
 
+- npm install
+- go to db/dbconfig.js and reconfigure the login if you are using a different one other than root user with no password
+- npm run awesome (this will do everything else for you but you can look at the individual scripts in package.json if you would like)
+
+
 ## ingredients-carousel-and-equipment-list
 
+- npm install
+- npm run seed
+- npm run build
+- npm start
+
 ## recipe-steps-w-video-carousel
+
+- npm install
+- configure ./database/config.js to log you in with whatever user you would like to use with mySql
+- npm run seed:db
+- npm run build
+- npm start
 
 ## Now You're Ready To Start Your Proxy!
 
 - npm install
 - npm start
 - now view the project @ localhost:8000/1
+
+
+> The images for this project may no longer be hosted on s3 due to the cost of keeping everything deployed.
