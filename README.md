@@ -1,6 +1,14 @@
 # FOODIE
 
+[![Build Status](https://img.shields.io/github/forks/JustinPaoletta/Foodie.svg?style=for-the-badge)](https://github.com/JustinPaoletta/Foodie)
+[![Build Status](https://img.shields.io/github/stars/JustinPaoletta/Foodie.svg?style=for-the-badge)](https://github.com/JustinPaoletta/Foodie)
+[![Dependency Status](https://img.shields.io/david/JustinPaoletta/Foodie.svg?style=for-the-badge)](https://david-dm.org/JustinPaoletta/Foodie)
+
 > This is a redesign of bon appetits recipe page. This project was worked on with two other team mates during Hack Reactor (HRR45). It is broken up into the three modules listed below. They are all combined onto this proxy server to make one Application.
+
+
+See My Contributions To The Foodie Application
+[![For The FOODIE In You](foodie.png)](https://www.youtube.com/watch?v=NzA-GTmPCDk)
 
 ## Related Projects
 
@@ -70,6 +78,3 @@ Follow the Instructions for Setting up Each Individual Module
 
 > The images for this project may no longer be hosted on s3 due to the cost of keeping everything deployed. This Means you can expect certain data not to render
 
-
-Please See The Video Below To See My Contributions To The Foodie Application
-[![For The FOODIE In You](foodie.png)](https://www.youtube.com/watch?v=NzA-GTmPCDk)
